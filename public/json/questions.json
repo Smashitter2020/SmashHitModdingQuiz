@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "type": "inputField",
+      "question": "Which tool is used to create segments for Smash Hit?",
+      "answer": "Blender",
+      "explanation": "Blender is a tool to make segments for Smash Hit."
+    },
+    {
+      "type": "inputField",
+      "question": "What version of Smash Hit is recommended to create mods?",
+      "answer": "1.4.3",
+      "explanation": "1.4.3 is the recommended version to create mods."
+    },
+    {
+      "type": "inputField",
+      "question": "What is the programming language to create checkpoints for Smash Hit?",
+      "answer": "Lua",
+      "explanation": "Lua is the programming language to create checkpoints."
+    },
+    {
+      "type": "inputField",
+      "question": "Which app is used to test mods without making the APK file?",
+      "answer": "Shatter Client",
+      "explanation": "Shatter Client is the mod without installing from APK."
+    },
+    {
+      "type": "inputField",
+      "question": "Why don't we create Smash Hit mods due to the version of 1.5.0?",
+      "answer": "Breaks compatibility and unstable features",
+      "explanation": "1.5.0 is not recommended because it can cause glitches or unexpected behavior."
+    }
+  ]
+}
